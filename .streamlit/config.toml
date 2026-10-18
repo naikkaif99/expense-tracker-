@@ -1,0 +1,24 @@
+# Brand palette: primary #F3BD00, text #1C1C1E, white #F5F5F5
+[theme]
+base = "light"
+primaryColor = "#F3BD00"
+backgroundColor = "#F5F5F5"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1C1C1E"
+borderColor = "#E4E4E7"
+baseRadius = "12px"
+font = "Inter, sans-serif"
+headingFont = "Inter, sans-serif"
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#1C1C1E"
+secondaryBackgroundColor = "#2C2C2E"
+textColor = "#F5F5F5"
+borderColor = "#3A3A3C"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+runOnSave = true
